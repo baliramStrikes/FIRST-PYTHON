@@ -7,7 +7,5 @@
 # var1 = 'helloworld power'
 # print (var1.count("o"))
 
-# var1, var2  = input('sir what is your name ').split(",")
-# print (var1.upper().count(var2.upper().strip()))
-
-print ('helloworld power')
+var1, var2  = input('sir what is your name ').split(",")
+print (var1.upper().count(var2.upper().strip()))
